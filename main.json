@@ -1,0 +1,10 @@
+[
+  {
+    "name": "DynamicConfiguration",
+    "git": "https://github.com/MirageManager/DynamicConfiguration.git"
+  },
+  {
+    "name": "ProceduralExecution",
+    "git": "https://github.com/MirageManager/ProceduralExecution.git"
+  }
+]
